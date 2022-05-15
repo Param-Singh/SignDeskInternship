@@ -1,0 +1,89 @@
+[{
+  "_id": 101,
+  "pStyle": "PBTE",
+  "pBattery": "13",
+  "pFittingRange": "25-105/115",
+  "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+  "price": 24999,
+  "supplier_id": 1002,
+  "manufacture_id": 52,
+  "img_path": "assets/kpImages/red_hearing_aid.jpg",
+  "pname": "Enya 288 DWP/HP"
+},{
+  "_id": 102,
+  "pStyle": "ITC",
+  "pBattery": "20-85/110",
+  "pFittingRange": "312",
+  "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+  "price": 24995,
+  "supplier_id": 1003,
+  "manufacture_id": 53,
+  "img_path": "assets/kpImages/cream_hearing_Aid.jpg",
+  "pname": "Enya 230 DW ITC/DWP ITC"
+},{
+  "_id": 103,
+  "pStyle": "CIC",
+  "pBattery": "20-85/110",
+  "pFittingRange": "10",
+  "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+  "price": 24995,
+  "supplier_id": 4001,
+  "manufacture_id": 54,
+  "img_path": "assets/kpImages/Black_White_hearning_Aid.jpg",
+  "pname": "Enya 210 CIC/PCIC"
+},{
+  "_id": 104,
+  "pStyle": "BTE",
+  "pBattery": "3I2",
+  "pFittingRange": "20-90/110",
+  "pRemarks": 1013,
+  "price": 50000,
+  "supplier_id": 6000,
+  "manufacture_id": 450,
+  "img_path": "assets/kpImages/Black_hearing_Aid.jpg",
+  "pname": "ENYA 277 DW OPENClassic"
+},{
+  "_id": 105,
+  "pStyle": "PBTE",
+  "pBattery": "13",
+  "pFittingRange": "25-105/115",
+  "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+  "price": 24995,
+  "supplier_id": 1002,
+  "manufacture_id": 52,
+  "img_path": "assets/kpImages/red_hearing_aid.jpg",
+  "pname": "Enya 288 DWP/HP"
+},{
+  "_id": 106,
+  "pStyle": "ITC",
+  "pBattery": "312",
+  "pFittingRange": "20-85/110",
+  "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+  "price": 24995,
+  "supplier_id": 1003,
+  "manufacture_id": 53,
+  "img_path": "assets/kpImages/cream_hearing_Aid.jpg",
+  "pname": "Enya 230 DW ITC/DWP ITC"
+},{
+  "_id": 107,
+  "pStyle": "CIC",
+  "pBattery": "10",
+  "pFittingRange": "20-85/110",
+  "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+  "price": 24995,
+  "supplier_id": 1004,
+  "manufacture_id": 54,
+  "img_path": "assets/kpImages/Black_White_hearning_Aid.jpg",
+  "pname": "Enya 210 CIC/PCIC"
+},{
+  "_id": 108,
+  "pStyle": "BTE",
+  "pBattery": "3I2",
+  "pFittingRange": "20-90/110",
+  "pRemarks": 1013,
+  "price": 50000,
+  "supplier_id": 6000,
+  "manufacture_id": 450,
+  "img_path": "assets/kpImages/Black_hearing_Aid.jpg",
+  "pname": "ENYA 277 DW OPENClassic"
+}]

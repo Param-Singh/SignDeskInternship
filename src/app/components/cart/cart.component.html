@@ -1,0 +1,29 @@
+<div class="container-fluid">
+    <h1>{{singlecart.uname}}'s Wishlist</h1>
+    <br>
+    <h1>Amount:  {{singlecart.amount}}</h1>
+    <div class="container-fluid">
+    <div class="container mt-4 "> 
+    <div class="table-responsive-md"> 
+      <table class="table">
+          <thead >
+              <tr>
+                  <th>Id</th><th>Product Name</th><th>Style</th><th>Battery Size</th><th>MRP</th><th>Image</th><th>Action</th>
+              </tr>
+          </thead>
+          <tbody>
+              <tr *ngFor = 'let c of singlecart.products'>
+                  <th scope="row">{{c._id}}</th>
+                  <td>{{c.pname}}</td>
+                  <td>{{c.pStyle}}</td>
+                  <td>{{c.pBattery}}</td>
+                  <td>{{c.price}}</td>
+                  <td><img height="100" width="100" src="{{c.img_path}}" alt=""> </td>
+                  <td><button class="btn btn-primary" (click)="deleteProduct(singlecart,c._id)">Remove</button></td>
+              </tr>
+          </tbody>
+      </table>
+      </div>
+      </div>
+    </div>
+  </div>

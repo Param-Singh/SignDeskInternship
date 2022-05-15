@@ -1,0 +1,78 @@
+[{
+  "_id": 1001,
+  "sName": "Sound Life Inc",
+  "sLocation": "Ahmedabad, Gujarat",
+  "sContact": "9945572222",
+  "sEmail": "hear@soundlife.in",
+  "manufacturers": null
+},{
+  "_id": 1002,
+  "sName": "Nayaks Hearing Care Clinic Private Limited",
+  "sLocation": "Bengaluru, Karnataka",
+  "sContact": {
+    "$numberLong": "9845058544"
+  },
+  "sEmail": "msjnayaka@yahoo.com"
+},{
+  "_id": 1003,
+  "sName": "Sivantos India Private Limited",
+  "sLocation": "Bengaluru",
+  "sContact": {
+    "$numberLong": "8970200222"
+  },
+  "sEmail": "sadananda.hulikal@sivantos.com"
+},{
+  "_id": 1004,
+  "sName": "Hearing Wellness Clinic Private",
+  "sLocation": "Bengaluru, Karnataka",
+  "sContact": {
+    "$numberLong": "9980510040"
+  },
+  "sEmail": "info@hearingwellness.in"
+},{
+  "_id": 1005,
+  "sName": "Aanvii Hearing Solutions Pvt Ltd",
+  "sLocation": "Mangaluru, Karnataka",
+  "sContact": {
+    "$numberLong": "9658345834"
+  },
+  "sEmail": "customercare@aanviihearing.com"
+},{
+  "_id": 1006,
+  "sName": "Earfit Speech And Hearing Clinic",
+  "sLocation": "Bengaluru, Karnataka ",
+  "sContact": "9886050101",
+  "sEmail": "info@earfit.in"
+},{
+  "_id": 1007,
+  "sName": "Priya Hearing Healthcare Centre",
+  "sLocation": "Bengaluru, Karnataka",
+  "sContact": {
+    "$numberLong": "9916614391"
+  },
+  "sEmail": "prijali2050@gmail.com"
+},{
+  "_id": 1008,
+  "sName": " Aditi Hearing Solutions",
+  "sLocation": "Bengaluru, Karnataka",
+  "sContact": {
+    "$numberLong": "7026594499"
+  },
+  "sEmail": "aditihearingsolutions@gmail.com"
+},{
+  "_id": 1009,
+  "sName": "Hearing Aids Delhi",
+  "sLocation": "New Delhi,Delhi",
+  "sContact": {
+    "$numberLong": "9810064489"
+  },
+  "sEmail": "info@ramavision.in"
+},{
+  "_id": 1010,
+  "sName": "Nature Hearing Aid Service & Production Lab",
+  "sLocation": "Bangalore,Karnataka",
+  "sContact": {
+    "$numberLong": "9902928259"
+  },
+  "sEmail": "sures.p3@gmail.com"
+}]

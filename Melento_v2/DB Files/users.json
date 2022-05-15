@@ -1,0 +1,55 @@
+[{
+  "_id": 1,
+  "name": "Param",
+  "gender": "Malee",
+  "address": "Bang",
+  "age": "21",
+  "email": "admin@legalcliq.com",
+  "password": "5a99ac3cb982c552b00eae917324c723",
+  "role": "Admin"
+},{
+  "_id": 2,
+  "name": "Ram Singh",
+  "gender": "",
+  "address": "road 12,Avenue,Bangalore,India,Delhi",
+  "age": "2022-05-11",
+  "email": "ram@legalcliq.com",
+  "password": "e6d9bd9b20503fb604480c5bb24c48f1",
+  "role": "User"
+},{
+  "_id": 3,
+  "name": "oqwpe qwoe",
+  "gender": "Male",
+  "address": "123,123,123,123,Karnataka",
+  "age": "2022-05-11",
+  "email": "1323@legalcliq.com",
+  "password": "e6d9bd9b20503fb604480c5bb24c48f1",
+  "role": "User"
+},{
+  "_id": 4,
+  "name": "123 123",
+  "gender": "Female",
+  "address": "123,123,123,132,Haryana",
+  "age": "2022-06-08",
+  "email": "123@legalcliq.com",
+  "password": "e6d9bd9b20503fb604480c5bb24c48f1",
+  "role": "User"
+},{
+  "_id": 5,
+  "name": "89 89",
+  "gender": "Male",
+  "address": "89,89,89,89,Karnataka",
+  "age": "2022-05-19",
+  "email": "89@legalcliq.com",
+  "password": "a3fc1faae726ab044ce8a04f847e6fd6",
+  "role": "User"
+},{
+  "_id": 6,
+  "name": "ram",
+  "gender": "12",
+  "address": "12",
+  "age": "123",
+  "email": "anshulcoooldude@gmail",
+  "password": "40833628f56e880fac1e429cfa66d024",
+  "role": "User"
+}]

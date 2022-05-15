@@ -1,0 +1,62 @@
+[{
+  "_id": 1,
+  "userid": 1,
+  "uname": "Param",
+  "uemail": "admin@legalcliq.com",
+  "products": [
+    {
+      "_id": 101,
+      "pStyle": "PBTE",
+      "pBattery": "13",
+      "pFittingRange": "25-105/115",
+      "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+      "price": 24999,
+      "supplier_id": 1002,
+      "manufacture_id": 52,
+      "img_path": "assets/kpImages/red_hearing_aid.jpg",
+      "pname": "Enya 288 DWP/HP"
+    }
+  ],
+  "amount": 24999
+},{
+  "_id": 2,
+  "userid": 2,
+  "uname": "Ram Singh",
+  "uemail": "ram@legalcliq.com",
+  "products": [
+    {
+      "_id": 103,
+      "pStyle": "Behind The Ear",
+      "price": 42990,
+      "img_path": "https://5.imimg.com/data5/SELLER/Default/2020/9/FG/WW/PU/37053809/phonak-bte-hearing-aids-500x500.jpg",
+      "pname": "Phonak Marvel M-30R Enabled",
+      "pcontact": "08048606966",
+      "pemail": "support@letshearit.in"
+    }
+  ],
+  "amount": 42990
+},{
+  "_id": 3,
+  "uname": "oqwpe qwoe",
+  "uemail": "1323@legalcliq.com",
+  "products": [],
+  "amount": 0
+},{
+  "_id": 4,
+  "uname": "123 123",
+  "uemail": "123@legalcliq.com",
+  "products": [],
+  "amount": 0
+},{
+  "_id": 5,
+  "uname": "89 89",
+  "uemail": "89@legalcliq.com",
+  "products": [],
+  "amount": 0
+},{
+  "_id": 6,
+  "uname": "ram",
+  "uemail": "anshulcoooldude@gmail",
+  "products": [],
+  "amount": 0
+}]

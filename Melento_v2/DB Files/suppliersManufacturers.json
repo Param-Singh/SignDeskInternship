@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6268d945f29844fc85324133"
+  },
+  "id": 1,
+  "Supp_id": 1001,
+  "Manufacturers_id": 101
+},{
+  "_id": {
+    "$oid": "6268d945f29844fc85324134"
+  },
+  "id": 2,
+  "Supp_id": 1002,
+  "Manufacturers_id": 101
+},{
+  "_id": {
+    "$oid": "6268d945f29844fc85324135"
+  },
+  "id": 3,
+  "Supp_id": 1003,
+  "Manufacturers_id": 103
+},{
+  "_id": {
+    "$oid": "6268d945f29844fc85324136"
+  },
+  "id": 4,
+  "Supp_id": 1004,
+  "Manufacturers_id": 103
+},{
+  "_id": {
+    "$oid": "6268d945f29844fc85324137"
+  },
+  "id": 5,
+  "Supp_id": 1005,
+  "Manufacturers_id": 105
+},{
+  "_id": {
+    "$oid": "6268d945f29844fc85324138"
+  },
+  "id": 6,
+  "Supp_id": 1006,
+  "Manufacturers_id": 106
+},{
+  "_id": {
+    "$oid": "6268d945f29844fc85324139"
+  },
+  "id": 7,
+  "Supp_id": 1007,
+  "Manufacturers_id": 107
+},{
+  "_id": {
+    "$oid": "6268d945f29844fc8532413a"
+  },
+  "id": 8,
+  "Supp_id": 1008,
+  "Manufacturers_id": 107
+},{
+  "_id": {
+    "$oid": "6268d945f29844fc8532413b"
+  },
+  "id": 9,
+  "Supp_id": 1009,
+  "Manufacturers_id": 109
+},{
+  "_id": {
+    "$oid": "6268d945f29844fc8532413c"
+  },
+  "id": 10,
+  "Supp_id": 1010,
+  "Manufacturers_id": 110
+}]

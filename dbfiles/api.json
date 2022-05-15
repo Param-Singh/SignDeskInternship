@@ -1,0 +1,319 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "pname": "Enya 277 DW Open/Classic",
+      "pStyle": "BTE",
+      "pBattery": "10-80/100",
+      "pFittingRange": "13",
+      "pRemarks": "1111",
+      "price": 24995,
+      "supplier_id": 1001,
+      "manufacture_id": 51,
+      "img_path": "assets/kpImages/hearing_aid.jpg"
+    },
+    {
+      "id": 2,
+      "pname": "Enya 288 DWP/HP",
+      "pStyle": "PBTE",
+      "pBattery": "13",
+      "pFittingRange": "25-105/115",
+      "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+      "price": 24995,
+      "supplier_id": 1002,
+      "manufacture_id": 52,
+      "img_path": "assets/kpImages/red_hearing_aid.jpg"
+    },
+    {
+      "id": 3,
+      "pname": "Enya 230 DW ITC/DWP ITC",
+      "pStyle": "ITC",
+      "pBattery": "312",
+      "pFittingRange": "20-85/110",
+      "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+      "price": 24995,
+      "supplier_id": 1003,
+      "manufacture_id": 53,
+      "img_path": "assets/kpImages/cream_hearing_Aid.jpg"
+    },
+    {
+      "id": 4,
+      "pname": "Enya 210 CIC/PCIC",
+      "pStyle": "CIC",
+      "pBattery": "10",
+      "pFittingRange": "20-85/110",
+      "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+      "price": 24995,
+      "supplier_id": 1004,
+      "manufacture_id": 54,
+      "img_path": "assets/kpImages/Black_White_hearning_Aid.jpg"
+    },
+    {
+      "id": 5,
+      "pname": "ENYA 277 DW OPENClassic",
+      "pStyle": "BTE",
+      "pBattery": "3I2",
+      "pFittingRange": "20-90/110",
+      "pRemarks": 1013,
+      "price": 50000,
+      "supplier_id": 6000,
+      "manufacture_id": 450,
+      "img_path": "assets/kpImages/Black_hearing_Aid.jpg"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": 1001,
+      "sName": "Sound Life Inc",
+      "sLocation": "Ahmedabad, Gujarat",
+      "sContact": "9945572222",
+      "sEmail": "hear@soundlife.in"
+    },
+    {
+      "id": 1002,
+      "sName": "Nayaks Hearing Care Clinic Private Limited",
+      "sLocation": "Bengaluru, Karnataka",
+      "sContact": 9845058544,
+      "sEmail": "msjnayaka@yahoo.com"
+    },
+    {
+      "id": 1003,
+      "sName": "Sivantos India Private Limited",
+      "sLocation": "Bengaluru",
+      "sContact": 8970200222,
+      "sEmail": "sadananda.hulikal@sivantos.com"
+    },
+    {
+      "id": 1004,
+      "sName": "Hearing Wellness Clinic Private",
+      "sLocation": "Bengaluru, Karnataka",
+      "sContact": 9980510040,
+      "sEmail": "info@hearingwellness.in"
+    },
+    {
+      "id": 1005,
+      "sName": "Aanvii Hearing Solutions Pvt Ltd",
+      "sLocation": "Mangaluru, Karnataka",
+      "sContact": 9658345834,
+      "sEmail": "customercare@aanviihearing.com"
+    },
+    {
+      "id": 1006,
+      "sName": "Earfit Speech And Hearing Clinic",
+      "sLocation": "Bengaluru, Karnataka ",
+      "sContact": "9886050101",
+      "sEmail": "info@earfit.in"
+    },
+    {
+      "id": 1007,
+      "sName": "Priya Hearing Healthcare Centre",
+      "sLocation": "Bengaluru, Karnataka",
+      "sContact": 9916614391,
+      "sEmail": "prijali2050@gmail.com"
+    },
+    {
+      "id": 1008,
+      "sName": " Aditi Hearing Solutions",
+      "sLocation": "Bengaluru, Karnataka",
+      "sContact": 7026594499,
+      "sEmail": "aditihearingsolutions@gmail.com"
+    },
+    {
+      "id": 1009,
+      "sName": "Hearing Aids Delhi",
+      "sLocation": "New Delhi,Delhi",
+      "sContact": 9810064489,
+      "sEmail": "info@ramavision.in"
+    },
+    {
+      "id": 1010,
+      "sName": "Nature Hearing Aid Service & Production Lab",
+      "sLocation": "Bangalore,Karnataka",
+      "sContact": 9902928259,
+      "sEmail": "sures.p3@gmail.com"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Param",
+      "email": "admin@legalcliq.com",
+      "password": "admin123",
+      "role": "Admin",
+      "age": "21",
+      "gender": "Male",
+      "address": "Earth"
+    },
+    {
+      "id": 2,
+      "age": "12",
+      "name": "Neha",
+      "email": "neha@legalcliq.com",
+      "gender": "Female",
+      "address": "Earth",
+      "password": "neha123",
+      "role": "User"
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "email": "john@legalcliq.com",
+      "password": "john123",
+      "role": "User",
+      "age": "25",
+      "gender": "Male",
+      "address": "Earth"
+    },
+    {
+      "id": 4,
+      "age": "19",
+      "name": "Jerry",
+      "email": "jerry@legalcliq.com",
+      "gender": "Male",
+      "address": "Earth",
+      "password": "jerry123",
+      "role": "User"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "userid": 1,
+      "uname": "Param",
+      "uemail": "admin@legalcliq.com",
+      "products": [
+        {
+          "id": 1,
+          "pname": "Enya 277 DW Open/Classic",
+          "pStyle": "BTE",
+          "pBattery": "13",
+          "pFittingRange": "10-80/100",
+          "pRemarks": "Itc and CIC are available in MP,HP and UP receivers",
+          "price": 24995,
+          "supplier_id": 1001,
+          "manufacture_id": 51,
+          "img_path": "assets/kpImages/hearing_aid.jpg"
+        }
+      ],
+      "total_amount": 0,
+      "amount": 24995
+    },
+    {
+      "id": 2,
+      "userid": 2,
+      "uname": "Neha",
+      "uemail": "neha@legalcliq.com",
+      "products": [],
+      "total_amount": 0,
+      "amount": 0
+    },
+    {
+      "id": 3,
+      "userid": 3,
+      "uname": "John",
+      "uemail": "john@legalcliq.com",
+      "products": [],
+      "total_amount": 0,
+      "amount": 0
+    },
+    {
+      "id": 4,
+      "userid": 4,
+      "uname": "Jerry",
+      "uemail": "jerry@legalcliq.com",
+      "products": [],
+      "total_amount": 0,
+      "amount": 0
+    }
+  ],
+  "manufacturers": [
+    {
+      "id": 101,
+      "mName": "Fastwell Healthcare Private Limited",
+      "loc": "Bengaluru",
+      "phn": 8047310415,
+      "pointOfContact": "David",
+      "email": "fastwell@gmail.com"
+    },
+    {
+      "id": 102,
+      "mName": "Green Life Healthcare",
+      "loc": "Bengaluru",
+      "phn": 8048604726,
+      "pointOfContact": "Jayendra Joshi",
+      "email": "greenlifeh@gmail.com"
+    },
+    {
+      "id": 103,
+      "mName": "Jeegar Enterprise",
+      "loc": "Bengaluru",
+      "phn": 8047646102,
+      "pointOfContact": "Kunal Patil",
+      "email": "jeegarenterprise@gmail.com"
+    },
+    {
+      "id": 104,
+      "mName": "Plastic Digital Wireless Hearing Aids, EarFree, Boxed",
+      "loc": "Bengaluru",
+      "phn": 7942539452,
+      "pointOfContact": "Siva Jain",
+      "email": "plasticdigital@gmail.com"
+    },
+    {
+      "id": 105,
+      "mName": "Elkon EL 78 Hearing Aid",
+      "loc": "Bengaluru",
+      "phn": 8046053170,
+      "pointOfContact": "Mukesh",
+      "email": "elkon@gmail.com"
+    },
+    {
+      "id": 106,
+      "mName": "Medizones Hearing Aid",
+      "loc": "Bengaluru",
+      "phn": 8046074819,
+      "pointOfContact": "Raghav",
+      "email": "medizones@gmail.com"
+    },
+    {
+      "id": 107,
+      "mName": "Global Audiology Services Private Limited",
+      "loc": "HSR Layout,Bangalore",
+      "phn": 8069033844,
+      "pointOfContact": "Ram",
+      "email": "globalaudiology@gmail.com"
+    },
+    {
+      "id": 108,
+      "mName": "Lively",
+      "loc": "Lively 41 West 25th Street 3rd Floor New York, NY 10010",
+      "phn": 8008542772,
+      "pointOfContact": "Ramesh",
+      "email": "support@listenlively.com"
+    },
+    {
+      "id": 109,
+      "mName": "ITC Hearing Aid",
+      "loc": "Bangalore",
+      "phn": 8048372186,
+      "pointOfContact": "Suresh",
+      "email": "itc@gmail.com"
+    },
+    {
+      "id": 110,
+      "mName": "MD Hearing Aid",
+      "loc": "150 N. Michigan Ave #400Chicago, IL 60601",
+      "phn": 8336231372,
+      "pointOfContact": "Simran patil deo",
+      "email": "support@MDHearingAid.com"
+    },
+    {
+      "id": 111,
+      "mName": "Astralis Hearing Aid",
+      "loc": "Denmark",
+      "phn": 9873107732,
+      "pointOfContact": "Joe Rogan",
+      "email": "support@AstralisAid.com"
+    }
+  ]
+}
